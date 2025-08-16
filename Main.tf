@@ -5,3 +5,10 @@ resource "resource_group" "King" {
   location="centralcanada"
   
 }
+
+
+resource "resource_group" "King1" {
+  Name = "mufasa1"
+  location="centralcanada"
+  
+}
